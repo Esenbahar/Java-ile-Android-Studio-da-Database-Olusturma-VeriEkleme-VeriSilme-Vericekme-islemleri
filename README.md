@@ -1,1 +1,1 @@
-"# Java-ile-AndroidStudioda-Database-Olusturma-VeriEkleme-VeriSilme-Veri-ekme-lemleri-" 
+"# Java-ile-Android-Studio-da-Database-Olusturma-VeriEkleme-VeriSilme-Vericekme-islemleri" 
